@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: ProfTracker
+## Notes: Per-character professions and recipes, with "can make" counts from all your characters' materials (uses AltStash if loaded). Passive reads only - never crafts or clicks.
+## Author: Demnock
+## Version: 0.1.5
+## IconTexture: Interface\Icons\INV_Misc_Note_01
+## SavedVariables: ProfTrackerDB
+## OptionalDeps: AltStash
+## Category: Professions
+## X-Website: none
+
+# Interface 16001 = WoW Forever beta build 1.60.1.xxxxx (same as AltStash).
+
+Core.lua
+UI.lua
